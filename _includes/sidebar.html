@@ -1,0 +1,35 @@
+<div class="sidebar">
+<div>
+	<img alt="Screenshot from the Python installation" src="../public/img/icon.jpg" class="img-nice" >
+	</div>
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <p class="lead"> COVID related resource collection</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+        <a href="/">Home</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.step == 1 %} active{% endif %}">
+        <a href="/news">News</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.step == 2 %} active{% endif %}">
+        <a href="/papers">Papers</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.step == 3 %} active{% endif %}">
+        <a href="/analysis tools">Analysis tools</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.step == 4 %} active{% endif %}">
+        <a href="/covid app source code">Covid app source code</a>
+      </li>
+      
+      <li class="sidebar-nav-item">
+        <a href="https://github.com/covid19-cyber/covid19-cyber.github.io">GitHub repository</a>
+      </li>
+	  <li>
+	  Contact us:
+	  </li>
+    </ul>
+  </div>
+</div>
