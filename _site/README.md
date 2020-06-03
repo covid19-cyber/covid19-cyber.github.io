@@ -1,13 +1,7 @@
-How to Run Jekyll on Windows
-============================
+This website was built based on Jekyll and Poole by Swinburne Cybersecurity Lab
 
-[Jekyll](http://jekyllrb.com), a simple, blog-aware, static site generator, is very easy to set up on Mac OS X or Linux. On Windows, not so much. This guide is here to help.
 
-Visit [the new, colorful, easy to read site](http://jekyll-windows.juthilo.com) to get started!
-
-There's an outdated Spanish translation of the guide [here](https://github.com/juthilo/run-jekyll-on-windows/blob/gh-pages/es/README.md).
-
-## Author
+## Original Author
 
 **Julian Thilo**
 

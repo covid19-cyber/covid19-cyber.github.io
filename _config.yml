@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Run Jekyll on Windows'
+title:            ''
 url:              http://jekyll-windows.juthilo.com
 baseurl:          /
 
